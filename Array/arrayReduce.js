@@ -1,4 +1,4 @@
-// El método reduce() ejecuta una función reductora sobre cada elemento de un array, devolviendo como resultado un único valor.
+// El método reduce() (Acumular) ejecuta una función reductora sobre cada elemento de un array, devolviendo como resultado un único valor.
 
 const array1 = [1, 2, 3, 4];
 const reducer = (previousValue, currentValue) => previousValue + currentValue;
